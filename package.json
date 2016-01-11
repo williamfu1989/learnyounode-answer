@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "bl": "latest",
-    "concat-stream": "latest"
+    "concat-stream": "latest",
+    "async": "latest"
   }
 }
