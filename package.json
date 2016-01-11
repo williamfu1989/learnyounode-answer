@@ -2,6 +2,7 @@
   "dependencies": {
     "bl": "latest",
     "concat-stream": "latest",
-    "async": "latest"
+    "async": "latest",
+    "through2-map": "*"
   }
 }
